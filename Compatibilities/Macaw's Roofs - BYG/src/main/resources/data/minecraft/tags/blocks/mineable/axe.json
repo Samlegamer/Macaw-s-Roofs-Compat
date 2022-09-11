@@ -1,0 +1,788 @@
+{
+  "replace": false,
+  "values": [
+    "macawsroofsbyg:aspen_roof",
+
+    "macawsroofsbyg:aspen_attic_roof",
+
+    "macawsroofsbyg:aspen_top_roof",
+
+    "macawsroofsbyg:aspen_lower_roof",
+
+    "macawsroofsbyg:aspen_steep_roof",
+
+    "macawsroofsbyg:aspen_upper_lower_roof",
+
+    "macawsroofsbyg:aspen_upper_steep_roof",
+
+    "macawsroofsbyg:aspen_planks_roof",
+
+    "macawsroofsbyg:aspen_planks_attic_roof",
+
+    "macawsroofsbyg:aspen_planks_top_roof",
+
+    "macawsroofsbyg:aspen_planks_lower_roof",
+
+    "macawsroofsbyg:aspen_planks_steep_roof",
+
+    "macawsroofsbyg:aspen_planks_upper_lower_roof",
+
+    "macawsroofsbyg:aspen_planks_upper_steep_roof",
+
+    "macawsroofsbyg:baobab_roof",
+
+    "macawsroofsbyg:baobab_attic_roof",
+
+    "macawsroofsbyg:baobab_top_roof",
+
+    "macawsroofsbyg:baobab_lower_roof",
+
+    "macawsroofsbyg:baobab_steep_roof",
+
+    "macawsroofsbyg:baobab_upper_lower_roof",
+
+    "macawsroofsbyg:baobab_upper_steep_roof",
+
+    "macawsroofsbyg:baobab_planks_roof",
+
+    "macawsroofsbyg:baobab_planks_attic_roof",
+
+    "macawsroofsbyg:baobab_planks_top_roof",
+
+    "macawsroofsbyg:baobab_planks_lower_roof",
+
+    "macawsroofsbyg:baobab_planks_steep_roof",
+
+    "macawsroofsbyg:baobab_planks_upper_lower_roof",
+
+    "macawsroofsbyg:baobab_planks_upper_steep_roof",
+
+    "macawsroofsbyg:blue_enchanted_roof",
+
+    "macawsroofsbyg:blue_enchanted_attic_roof",
+
+    "macawsroofsbyg:blue_enchanted_top_roof",
+
+    "macawsroofsbyg:blue_enchanted_lower_roof",
+
+    "macawsroofsbyg:blue_enchanted_steep_roof",
+
+    "macawsroofsbyg:blue_enchanted_upper_lower_roof",
+
+    "macawsroofsbyg:blue_enchanted_upper_steep_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_attic_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_top_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_lower_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_steep_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_upper_lower_roof",
+
+    "macawsroofsbyg:blue_enchanted_planks_upper_steep_roof",
+
+    "macawsroofsbyg:cherry_roof",
+
+    "macawsroofsbyg:cherry_attic_roof",
+
+    "macawsroofsbyg:cherry_top_roof",
+
+    "macawsroofsbyg:cherry_lower_roof",
+
+    "macawsroofsbyg:cherry_steep_roof",
+
+    "macawsroofsbyg:cherry_upper_lower_roof",
+
+    "macawsroofsbyg:cherry_upper_steep_roof",
+
+    "macawsroofsbyg:cherry_planks_roof",
+
+    "macawsroofsbyg:cherry_planks_attic_roof",
+
+    "macawsroofsbyg:cherry_planks_top_roof",
+
+    "macawsroofsbyg:cherry_planks_lower_roof",
+
+    "macawsroofsbyg:cherry_planks_steep_roof",
+
+    "macawsroofsbyg:cherry_planks_upper_lower_roof",
+
+    "macawsroofsbyg:cherry_planks_upper_steep_roof",
+
+    "macawsroofsbyg:cika_roof",
+
+    "macawsroofsbyg:cika_attic_roof",
+
+    "macawsroofsbyg:cika_top_roof",
+
+    "macawsroofsbyg:cika_lower_roof",
+
+    "macawsroofsbyg:cika_steep_roof",
+
+    "macawsroofsbyg:cika_upper_lower_roof",
+
+    "macawsroofsbyg:cika_upper_steep_roof",
+
+    "macawsroofsbyg:cika_planks_roof",
+
+    "macawsroofsbyg:cika_planks_attic_roof",
+
+    "macawsroofsbyg:cika_planks_top_roof",
+
+    "macawsroofsbyg:cika_planks_lower_roof",
+
+    "macawsroofsbyg:cika_planks_steep_roof",
+
+    "macawsroofsbyg:cika_planks_upper_lower_roof",
+
+    "macawsroofsbyg:cika_planks_upper_steep_roof",
+
+    "macawsroofsbyg:cypress_roof",
+
+    "macawsroofsbyg:cypress_attic_roof",
+
+    "macawsroofsbyg:cypress_top_roof",
+
+    "macawsroofsbyg:cypress_lower_roof",
+
+    "macawsroofsbyg:cypress_steep_roof",
+
+    "macawsroofsbyg:cypress_upper_lower_roof",
+
+    "macawsroofsbyg:cypress_upper_steep_roof",
+
+    "macawsroofsbyg:cypress_planks_roof",
+
+    "macawsroofsbyg:cypress_planks_attic_roof",
+
+    "macawsroofsbyg:cypress_planks_top_roof",
+
+    "macawsroofsbyg:cypress_planks_lower_roof",
+
+    "macawsroofsbyg:cypress_planks_steep_roof",
+
+    "macawsroofsbyg:cypress_planks_upper_lower_roof",
+
+    "macawsroofsbyg:cypress_planks_upper_steep_roof",
+
+    "macawsroofsbyg:ebony_roof",
+
+    "macawsroofsbyg:ebony_attic_roof",
+
+    "macawsroofsbyg:ebony_top_roof",
+
+    "macawsroofsbyg:ebony_lower_roof",
+
+    "macawsroofsbyg:ebony_steep_roof",
+
+    "macawsroofsbyg:ebony_upper_lower_roof",
+
+    "macawsroofsbyg:ebony_upper_steep_roof",
+
+    "macawsroofsbyg:ebony_planks_roof",
+
+    "macawsroofsbyg:ebony_planks_attic_roof",
+
+    "macawsroofsbyg:ebony_planks_top_roof",
+
+    "macawsroofsbyg:ebony_planks_lower_roof",
+
+    "macawsroofsbyg:ebony_planks_steep_roof",
+
+    "macawsroofsbyg:ebony_planks_upper_lower_roof",
+
+    "macawsroofsbyg:ebony_planks_upper_steep_roof",
+
+    "macawsroofsbyg:ether_roof",
+
+    "macawsroofsbyg:ether_attic_roof",
+
+    "macawsroofsbyg:ether_top_roof",
+
+    "macawsroofsbyg:ether_lower_roof",
+
+    "macawsroofsbyg:ether_steep_roof",
+
+    "macawsroofsbyg:ether_upper_lower_roof",
+
+    "macawsroofsbyg:ether_upper_steep_roof",
+
+    "macawsroofsbyg:ether_planks_roof",
+
+    "macawsroofsbyg:ether_planks_attic_roof",
+
+    "macawsroofsbyg:ether_planks_top_roof",
+
+    "macawsroofsbyg:ether_planks_lower_roof",
+
+    "macawsroofsbyg:ether_planks_steep_roof",
+
+    "macawsroofsbyg:ether_planks_upper_lower_roof",
+
+    "macawsroofsbyg:ether_planks_upper_steep_roof",
+
+    "macawsroofsbyg:fir_roof",
+
+    "macawsroofsbyg:fir_attic_roof",
+
+    "macawsroofsbyg:fir_top_roof",
+
+    "macawsroofsbyg:fir_lower_roof",
+
+    "macawsroofsbyg:fir_steep_roof",
+
+    "macawsroofsbyg:fir_upper_lower_roof",
+
+    "macawsroofsbyg:fir_upper_steep_roof",
+
+    "macawsroofsbyg:fir_planks_roof",
+
+    "macawsroofsbyg:fir_planks_attic_roof",
+
+    "macawsroofsbyg:fir_planks_top_roof",
+
+    "macawsroofsbyg:fir_planks_lower_roof",
+
+    "macawsroofsbyg:fir_planks_steep_roof",
+
+    "macawsroofsbyg:fir_planks_upper_lower_roof",
+
+    "macawsroofsbyg:fir_planks_upper_steep_roof",
+
+    "macawsroofsbyg:green_enchanted_roof",
+
+    "macawsroofsbyg:green_enchanted_attic_roof",
+
+    "macawsroofsbyg:green_enchanted_top_roof",
+
+    "macawsroofsbyg:green_enchanted_lower_roof",
+
+    "macawsroofsbyg:green_enchanted_steep_roof",
+
+    "macawsroofsbyg:green_enchanted_upper_lower_roof",
+
+    "macawsroofsbyg:green_enchanted_upper_steep_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_attic_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_top_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_lower_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_steep_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_upper_lower_roof",
+
+    "macawsroofsbyg:green_enchanted_planks_upper_steep_roof",
+
+    "macawsroofsbyg:holly_roof",
+
+    "macawsroofsbyg:holly_attic_roof",
+
+    "macawsroofsbyg:holly_top_roof",
+
+    "macawsroofsbyg:holly_lower_roof",
+
+    "macawsroofsbyg:holly_steep_roof",
+
+    "macawsroofsbyg:holly_upper_lower_roof",
+
+    "macawsroofsbyg:holly_upper_steep_roof",
+
+    "macawsroofsbyg:holly_planks_roof",
+
+    "macawsroofsbyg:holly_planks_attic_roof",
+
+    "macawsroofsbyg:holly_planks_top_roof",
+
+    "macawsroofsbyg:holly_planks_lower_roof",
+
+    "macawsroofsbyg:holly_planks_steep_roof",
+
+    "macawsroofsbyg:holly_planks_upper_lower_roof",
+
+    "macawsroofsbyg:holly_planks_upper_steep_roof",
+
+    "macawsroofsbyg:jacaranda_roof",
+
+    "macawsroofsbyg:jacaranda_attic_roof",
+
+    "macawsroofsbyg:jacaranda_top_roof",
+
+    "macawsroofsbyg:jacaranda_lower_roof",
+
+    "macawsroofsbyg:jacaranda_steep_roof",
+
+    "macawsroofsbyg:jacaranda_upper_lower_roof",
+
+    "macawsroofsbyg:jacaranda_upper_steep_roof",
+
+    "macawsroofsbyg:jacaranda_planks_roof",
+
+    "macawsroofsbyg:jacaranda_planks_attic_roof",
+
+    "macawsroofsbyg:jacaranda_planks_top_roof",
+
+    "macawsroofsbyg:jacaranda_planks_lower_roof",
+
+    "macawsroofsbyg:jacaranda_planks_steep_roof",
+
+    "macawsroofsbyg:jacaranda_planks_upper_lower_roof",
+
+    "macawsroofsbyg:jacaranda_planks_upper_steep_roof",
+
+    "macawsroofsbyg:lament_roof",
+
+    "macawsroofsbyg:lament_attic_roof",
+
+    "macawsroofsbyg:lament_top_roof",
+
+    "macawsroofsbyg:lament_lower_roof",
+
+    "macawsroofsbyg:lament_steep_roof",
+
+    "macawsroofsbyg:lament_upper_lower_roof",
+
+    "macawsroofsbyg:lament_upper_steep_roof",
+
+    "macawsroofsbyg:lament_planks_roof",
+
+    "macawsroofsbyg:lament_planks_attic_roof",
+
+    "macawsroofsbyg:lament_planks_top_roof",
+
+    "macawsroofsbyg:lament_planks_lower_roof",
+
+    "macawsroofsbyg:lament_planks_steep_roof",
+
+    "macawsroofsbyg:lament_planks_upper_lower_roof",
+
+    "macawsroofsbyg:lament_planks_upper_steep_roof",
+
+    "macawsroofsbyg:mahogany_roof",
+
+    "macawsroofsbyg:mahogany_attic_roof",
+
+    "macawsroofsbyg:mahogany_top_roof",
+
+    "macawsroofsbyg:mahogany_lower_roof",
+
+    "macawsroofsbyg:mahogany_steep_roof",
+
+    "macawsroofsbyg:mahogany_upper_lower_roof",
+
+    "macawsroofsbyg:mahogany_upper_steep_roof",
+
+    "macawsroofsbyg:mahogany_planks_roof",
+
+    "macawsroofsbyg:mahogany_planks_attic_roof",
+
+    "macawsroofsbyg:mahogany_planks_top_roof",
+
+    "macawsroofsbyg:mahogany_planks_lower_roof",
+
+    "macawsroofsbyg:mahogany_planks_steep_roof",
+
+    "macawsroofsbyg:mahogany_planks_upper_lower_roof",
+
+    "macawsroofsbyg:mahogany_planks_upper_steep_roof",
+
+    "macawsroofsbyg:white_mangrove_roof",
+
+    "macawsroofsbyg:white_mangrove_attic_roof",
+
+    "macawsroofsbyg:white_mangrove_top_roof",
+
+    "macawsroofsbyg:white_mangrove_lower_roof",
+
+    "macawsroofsbyg:white_mangrove_steep_roof",
+
+    "macawsroofsbyg:white_mangrove_upper_lower_roof",
+
+    "macawsroofsbyg:white_mangrove_upper_steep_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_attic_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_top_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_lower_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_steep_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_upper_lower_roof",
+
+    "macawsroofsbyg:white_mangrove_planks_upper_steep_roof",
+
+    "macawsroofsbyg:maple_roof",
+
+    "macawsroofsbyg:maple_attic_roof",
+
+    "macawsroofsbyg:maple_top_roof",
+
+    "macawsroofsbyg:maple_lower_roof",
+
+    "macawsroofsbyg:maple_steep_roof",
+
+    "macawsroofsbyg:maple_upper_lower_roof",
+
+    "macawsroofsbyg:maple_upper_steep_roof",
+
+    "macawsroofsbyg:maple_planks_roof",
+
+    "macawsroofsbyg:maple_planks_attic_roof",
+
+    "macawsroofsbyg:maple_planks_top_roof",
+
+    "macawsroofsbyg:maple_planks_lower_roof",
+
+    "macawsroofsbyg:maple_planks_steep_roof",
+
+    "macawsroofsbyg:maple_planks_upper_lower_roof",
+
+    "macawsroofsbyg:maple_planks_upper_steep_roof",
+
+    "macawsroofsbyg:nightshade_roof",
+
+    "macawsroofsbyg:nightshade_attic_roof",
+
+    "macawsroofsbyg:nightshade_top_roof",
+
+    "macawsroofsbyg:nightshade_lower_roof",
+
+    "macawsroofsbyg:nightshade_steep_roof",
+
+    "macawsroofsbyg:nightshade_upper_lower_roof",
+
+    "macawsroofsbyg:nightshade_upper_steep_roof",
+
+    "macawsroofsbyg:nightshade_planks_roof",
+
+    "macawsroofsbyg:nightshade_planks_attic_roof",
+
+    "macawsroofsbyg:nightshade_planks_top_roof",
+
+    "macawsroofsbyg:nightshade_planks_lower_roof",
+
+    "macawsroofsbyg:nightshade_planks_steep_roof",
+
+    "macawsroofsbyg:nightshade_planks_upper_lower_roof",
+
+    "macawsroofsbyg:nightshade_planks_upper_steep_roof",
+
+    "macawsroofsbyg:palm_roof",
+
+    "macawsroofsbyg:palm_attic_roof",
+
+    "macawsroofsbyg:palm_top_roof",
+
+    "macawsroofsbyg:palm_lower_roof",
+
+    "macawsroofsbyg:palm_steep_roof",
+
+    "macawsroofsbyg:palm_upper_lower_roof",
+
+    "macawsroofsbyg:palm_upper_steep_roof",
+
+    "macawsroofsbyg:palm_planks_roof",
+
+    "macawsroofsbyg:palm_planks_attic_roof",
+
+    "macawsroofsbyg:palm_planks_top_roof",
+
+    "macawsroofsbyg:palm_planks_lower_roof",
+
+    "macawsroofsbyg:palm_planks_steep_roof",
+
+    "macawsroofsbyg:palm_planks_upper_lower_roof",
+
+    "macawsroofsbyg:palm_planks_upper_steep_roof",
+
+    "macawsroofsbyg:pine_roof",
+
+    "macawsroofsbyg:pine_attic_roof",
+
+    "macawsroofsbyg:pine_top_roof",
+
+    "macawsroofsbyg:pine_lower_roof",
+
+    "macawsroofsbyg:pine_steep_roof",
+
+    "macawsroofsbyg:pine_upper_lower_roof",
+
+    "macawsroofsbyg:pine_upper_steep_roof",
+
+    "macawsroofsbyg:pine_planks_roof",
+
+    "macawsroofsbyg:pine_planks_attic_roof",
+
+    "macawsroofsbyg:pine_planks_top_roof",
+
+    "macawsroofsbyg:pine_planks_lower_roof",
+
+    "macawsroofsbyg:pine_planks_steep_roof",
+
+    "macawsroofsbyg:pine_planks_upper_lower_roof",
+
+    "macawsroofsbyg:pine_planks_upper_steep_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_attic_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_top_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_lower_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_steep_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_upper_lower_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_upper_steep_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_attic_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_top_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_lower_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_steep_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_upper_lower_roof",
+
+    "macawsroofsbyg:rainbow_eucalyptus_planks_upper_steep_roof",
+
+    "macawsroofsbyg:redwood_roof",
+
+    "macawsroofsbyg:redwood_attic_roof",
+
+    "macawsroofsbyg:redwood_top_roof",
+
+    "macawsroofsbyg:redwood_lower_roof",
+
+    "macawsroofsbyg:redwood_steep_roof",
+
+    "macawsroofsbyg:redwood_upper_lower_roof",
+
+    "macawsroofsbyg:redwood_upper_steep_roof",
+
+    "macawsroofsbyg:redwood_planks_roof",
+
+    "macawsroofsbyg:redwood_planks_attic_roof",
+
+    "macawsroofsbyg:redwood_planks_top_roof",
+
+    "macawsroofsbyg:redwood_planks_lower_roof",
+
+    "macawsroofsbyg:redwood_planks_steep_roof",
+
+    "macawsroofsbyg:redwood_planks_upper_lower_roof",
+
+    "macawsroofsbyg:redwood_planks_upper_steep_roof",
+
+    "macawsroofsbyg:skyris_roof",
+
+    "macawsroofsbyg:skyris_attic_roof",
+
+    "macawsroofsbyg:skyris_top_roof",
+
+    "macawsroofsbyg:skyris_lower_roof",
+
+    "macawsroofsbyg:skyris_steep_roof",
+
+    "macawsroofsbyg:skyris_upper_lower_roof",
+
+    "macawsroofsbyg:skyris_upper_steep_roof",
+
+    "macawsroofsbyg:skyris_planks_roof",
+
+    "macawsroofsbyg:skyris_planks_attic_roof",
+
+    "macawsroofsbyg:skyris_planks_top_roof",
+
+    "macawsroofsbyg:skyris_planks_lower_roof",
+
+    "macawsroofsbyg:skyris_planks_steep_roof",
+
+    "macawsroofsbyg:skyris_planks_upper_lower_roof",
+
+    "macawsroofsbyg:skyris_planks_upper_steep_roof",
+
+    "macawsroofsbyg:willow_roof",
+
+    "macawsroofsbyg:willow_attic_roof",
+
+    "macawsroofsbyg:willow_top_roof",
+
+    "macawsroofsbyg:willow_lower_roof",
+
+    "macawsroofsbyg:willow_steep_roof",
+
+    "macawsroofsbyg:willow_upper_lower_roof",
+
+    "macawsroofsbyg:willow_upper_steep_roof",
+
+    "macawsroofsbyg:willow_planks_roof",
+
+    "macawsroofsbyg:willow_planks_attic_roof",
+
+    "macawsroofsbyg:willow_planks_top_roof",
+
+    "macawsroofsbyg:willow_planks_lower_roof",
+
+    "macawsroofsbyg:willow_planks_steep_roof",
+
+    "macawsroofsbyg:willow_planks_upper_lower_roof",
+
+    "macawsroofsbyg:willow_planks_upper_steep_roof",
+
+    "macawsroofsbyg:witch_hazel_roof",
+
+    "macawsroofsbyg:witch_hazel_attic_roof",
+
+    "macawsroofsbyg:witch_hazel_top_roof",
+
+    "macawsroofsbyg:witch_hazel_lower_roof",
+
+    "macawsroofsbyg:witch_hazel_steep_roof",
+
+    "macawsroofsbyg:witch_hazel_upper_lower_roof",
+
+    "macawsroofsbyg:witch_hazel_upper_steep_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_attic_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_top_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_lower_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_steep_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_upper_lower_roof",
+
+    "macawsroofsbyg:witch_hazel_planks_upper_steep_roof",
+
+    "macawsroofsbyg:zelkova_roof",
+
+    "macawsroofsbyg:zelkova_attic_roof",
+
+    "macawsroofsbyg:zelkova_top_roof",
+
+    "macawsroofsbyg:zelkova_lower_roof",
+
+    "macawsroofsbyg:zelkova_steep_roof",
+
+    "macawsroofsbyg:zelkova_upper_lower_roof",
+
+    "macawsroofsbyg:zelkova_upper_steep_roof",
+
+    "macawsroofsbyg:zelkova_planks_roof",
+
+    "macawsroofsbyg:zelkova_planks_attic_roof",
+
+    "macawsroofsbyg:zelkova_planks_top_roof",
+
+    "macawsroofsbyg:zelkova_planks_lower_roof",
+
+    "macawsroofsbyg:zelkova_planks_steep_roof",
+
+    "macawsroofsbyg:zelkova_planks_upper_lower_roof",
+
+    "macawsroofsbyg:zelkova_planks_upper_steep_roof",
+
+    "macawsroofsbyg:bulbis_roof",
+
+    "macawsroofsbyg:bulbis_attic_roof",
+
+    "macawsroofsbyg:bulbis_top_roof",
+
+    "macawsroofsbyg:bulbis_lower_roof",
+
+    "macawsroofsbyg:bulbis_steep_roof",
+
+    "macawsroofsbyg:bulbis_upper_lower_roof",
+
+    "macawsroofsbyg:bulbis_upper_steep_roof",
+
+    "macawsroofsbyg:bulbis_planks_roof",
+
+    "macawsroofsbyg:bulbis_planks_attic_roof",
+
+    "macawsroofsbyg:bulbis_planks_top_roof",
+
+    "macawsroofsbyg:bulbis_planks_lower_roof",
+
+    "macawsroofsbyg:bulbis_planks_steep_roof",
+
+    "macawsroofsbyg:bulbis_planks_upper_lower_roof",
+
+    "macawsroofsbyg:bulbis_planks_upper_steep_roof",
+
+    "macawsroofsbyg:imparius_roof",
+
+    "macawsroofsbyg:imparius_attic_roof",
+
+    "macawsroofsbyg:imparius_top_roof",
+
+    "macawsroofsbyg:imparius_lower_roof",
+
+    "macawsroofsbyg:imparius_steep_roof",
+
+    "macawsroofsbyg:imparius_upper_lower_roof",
+
+    "macawsroofsbyg:imparius_upper_steep_roof",
+
+    "macawsroofsbyg:imparius_planks_roof",
+
+    "macawsroofsbyg:imparius_planks_attic_roof",
+
+    "macawsroofsbyg:imparius_planks_top_roof",
+
+    "macawsroofsbyg:imparius_planks_lower_roof",
+
+    "macawsroofsbyg:imparius_planks_steep_roof",
+
+    "macawsroofsbyg:imparius_planks_upper_lower_roof",
+
+    "macawsroofsbyg:imparius_planks_upper_steep_roof",
+
+    "macawsroofsbyg:sythian_roof",
+
+    "macawsroofsbyg:sythian_attic_roof",
+
+    "macawsroofsbyg:sythian_top_roof",
+
+    "macawsroofsbyg:sythian_lower_roof",
+
+    "macawsroofsbyg:sythian_steep_roof",
+
+    "macawsroofsbyg:sythian_upper_lower_roof",
+
+    "macawsroofsbyg:sythian_upper_steep_roof",
+
+    "macawsroofsbyg:sythian_planks_roof",
+
+    "macawsroofsbyg:sythian_planks_attic_roof",
+
+    "macawsroofsbyg:sythian_planks_top_roof",
+
+    "macawsroofsbyg:sythian_planks_lower_roof",
+
+    "macawsroofsbyg:sythian_planks_steep_roof",
+
+    "macawsroofsbyg:sythian_planks_upper_lower_roof",
+
+    "macawsroofsbyg:sythian_planks_upper_steep_roof"
+  ]
+}

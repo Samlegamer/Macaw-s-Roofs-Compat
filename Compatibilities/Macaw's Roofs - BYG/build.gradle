@@ -1,26 +1,19 @@
-buildscript {
-    repositories {
-        maven { url = 'https://maven.minecraftforge.net' }
-        mavenCentral()
-    }
-    dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
-    }
+plugins {
+    id 'eclipse'
+    id 'maven-publish'
+    id 'net.minecraftforge.gradle' version '5.1.+'
 }
-apply plugin: 'net.minecraftforge.gradle'
-apply plugin: 'eclipse'
-apply plugin: 'maven-publish'
 
-version = '1.16.5-1.5'
+version = '1.19.2-1.0'
 group = 'fr.samlegamer.macawsroofsbyg'
 archivesBaseName = 'macawsroofsbyg'
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(8)
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
-println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
+println "Java: ${System.getProperty 'java.version'}, JVM: ${System.getProperty 'java.vm.version'} (${System.getProperty 'java.vendor'}), Arch: ${System.getProperty 'os.arch'}"
 minecraft
 {
-    mappings channel: 'official', version: '1.16.5'
+    mappings channel: 'official', version: '1.19.2'
 
     runs {
         client {
@@ -29,6 +22,8 @@ minecraft
             property 'forge.logging.markers', 'REGISTRIES'
 
             property 'forge.logging.console.level', 'debug'
+
+            property 'forge.enabledGameTestNamespaces', 'macawsroofsbyg'
 
             mods {
                 macawsroofsbyg {
@@ -43,6 +38,24 @@ minecraft
             property 'forge.logging.markers', 'REGISTRIES'
 
             property 'forge.logging.console.level', 'debug'
+
+            property 'forge.enabledGameTestNamespaces', 'macawsroofsbyg'
+
+            mods {
+                macawsroofsbyg {
+                    source sourceSets.main
+                }
+            }
+        }
+
+        gameTestServer {
+            workingDirectory project.file('run')
+
+            property 'forge.logging.markers', 'REGISTRIES'
+
+            property 'forge.logging.console.level', 'debug'
+
+            property 'forge.enabledGameTestNamespaces', 'macawsroofsbyg'
 
             mods {
                 macawsroofsbyg {
@@ -85,26 +98,27 @@ repositories
 
 dependencies
 {
-    minecraft 'net.minecraftforge:forge:1.16.5-36.2.39'
-    implementation fg.deobf("curse.maven:oh-the-biomes-youll-go-247560:3485079")
- 	implementation fg.deobf("curse.maven:macaws-roofs-352039:3963936")
+    minecraft 'net.minecraftforge:forge:1.19.2-43.1.3'
+    implementation fg.deobf("curse.maven:oh-the-biomes-youll-go-247560:3970266")
+ 	implementation fg.deobf("curse.maven:macaws-roofs-352039:3963949")
+  	implementation fg.deobf("curse.maven:terrablender-563928:3966342")
 }
 
 jar {
     manifest {
         attributes([
-            "Specification-Title": "macawsroofsbyg",
-            "Specification-Vendor": "macawsroofsbygsareus",
-            "Specification-Version": "1",
-            "Implementation-Title": project.name,
-            "Implementation-Version": "${version}",
-            "Implementation-Vendor" :"macawsroofsbygsareus",
-            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+                "Specification-Title"     : "macawsroofsbyg",
+                "Specification-Vendor"    : "macawsroofsbygsareus",
+                "Specification-Version"   : "1",
+                "Implementation-Title"    : project.name,
+                "Implementation-Version"  : project.jar.archiveVersion,
+                "Implementation-Vendor"   : "macawsroofsbygsareus",
+                "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
 }
 
-jar.finalizedBy('reobfJar') 
+jar.finalizedBy('reobfJar')
 
 publishing {
     publications {
@@ -114,7 +128,11 @@ publishing {
     }
     repositories {
         maven {
-            url "file:///${project.projectDir}/mcmodsrepo"
+            url "file://${project.projectDir}/mcmodsrepo"
         }
     }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
 }
