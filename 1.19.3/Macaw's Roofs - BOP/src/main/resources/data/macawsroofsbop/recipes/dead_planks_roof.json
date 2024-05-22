@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " W",
+        "WS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomesoplenty:dead_planks"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "macawsroofsbop:dead_planks_roof",
+        "count": 2
+    }
+}

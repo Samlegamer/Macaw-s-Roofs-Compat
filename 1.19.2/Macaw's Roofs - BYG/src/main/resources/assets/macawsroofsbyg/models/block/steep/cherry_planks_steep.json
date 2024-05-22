@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_steep",
+	"textures": {
+		"2": "byg:block/cherry/planks",
+		"particle": "byg:block/cherry/planks"
+	}
+}

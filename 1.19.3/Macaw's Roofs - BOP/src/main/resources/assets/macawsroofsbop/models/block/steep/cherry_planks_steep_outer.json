@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_steep_outer",
+	"textures": {
+		"2": "biomesoplenty:block/cherry_planks",
+		"particle": "biomesoplenty:block/cherry_planks"
+	}
+}

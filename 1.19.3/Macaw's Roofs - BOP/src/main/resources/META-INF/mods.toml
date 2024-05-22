@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Samlegamer/Macaw-s-Roofs-Compat/issues"
+
+[[mods]]
+modId="macawsroofsbop"
+version="1.19.3-1.2"
+displayName="Macaw's Roofs - BOP"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty"
+logoFile="img.png"
+credits="sketch_macaw"
+authors="Samlegamer"
+
+description='''
+Compatibility between Macaw's Roofs and Biome O' Plenty for Minecraft 1.19.3 !
+'''
+
+[[dependencies.macawsroofsbop]]
+    modId="forge"
+    mandatory=true
+    versionRange="[44,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.macawsroofsbop]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.3,1.20)"
+    ordering="NONE"
+    side="BOTH"

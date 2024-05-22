@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Samlegamer/Macaw-s-Roofs-Compat/issues"
+
+[[mods]]
+modId="macawsroofsbyg"
+version="1.16.5-1.7"
+displayName="Macaw's Roofs - BYG"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-oh-the-biomes-youll-go"
+logoFile="img.png"
+credits="sketch_macaw"
+authors="Samlegamer"
+description='''
+Compatibility between Macaw's Roofs and Oh The Biomes You'll Go for Minecraft 1.16.5 !
+'''
+
+[[dependencies.macawsroofsbyg]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.macawsroofsbyg]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
