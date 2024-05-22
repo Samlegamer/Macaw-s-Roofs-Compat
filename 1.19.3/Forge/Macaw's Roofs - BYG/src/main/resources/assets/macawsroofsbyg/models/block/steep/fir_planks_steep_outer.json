@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_steep_outer",
+	"textures": {
+		"2": "byg:block/fir/planks",
+		"particle": "byg:block/fir/planks"
+	}
+}
