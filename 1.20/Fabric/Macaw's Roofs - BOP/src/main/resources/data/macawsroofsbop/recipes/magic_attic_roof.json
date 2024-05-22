@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " W",
+        "WG"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomesoplenty:magic_log"
+        },
+		"G":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+
+    
+    "result":
+    {
+        "item": "macawsroofsbop:magic_attic_roof",
+        "count": 2
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		" WW",
+        "WWS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomesoplenty:willow_planks"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "macawsroofsbop:willow_planks_lower_roof",
+        "count": 4
+    }
+}
