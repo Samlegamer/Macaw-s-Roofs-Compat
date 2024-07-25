@@ -7,8 +7,8 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 displayURL="https://curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty"
-#logoFile="img.png"
-#credits="sketch_macaw"
+logoFile="img.png"
+credits="sketch_macaw"
 authors="${mod_authors}"
 
 description='''${mod_description}'''
@@ -26,3 +26,21 @@ description='''${mod_description}'''
     versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
+
+[[dependencies.macawsroofsbop]]
+    modId = "mcwroofs"
+    mandatory = false
+    ordering = "AFTER"
+    versionRange = "NONE"
+
+[[dependencies.macawsroofsbop]]
+    modId = "biomesoplenty"
+    mandatory = false
+    ordering = "AFTER"
+    versionRange = "NONE"
+
+[[dependencies.macawsroofsbop]]
+    modId = "terrablender"
+    mandatory = false
+    ordering = "AFTER"
+    versionRange = "NONE"

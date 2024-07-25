@@ -1,52 +1,25 @@
 {
     "variants": {           
-
         "part=pyramid":  { "model": "macawsroofsbyg:block/top/cherry_top_pyramid" },
-		"part=switched": { "model": "macawsroofsbyg:block/top/cherry_top_roof", "y": 90},
-
-        "part=basic,north=false,east=false,south=false,west=true":  { "model": "macawsroofsbyg:block/top/cherry_top_roof", "y": 90 },
-        "part=basic,north=false,east=true,south=false,west=true": { "model": "macawsroofsbyg:block/top/cherry_top_roof", "y": 90},
-        "part=basic,north=false,east=true,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof", "y": 90},
-
-        "part=basic,north=false,east=false,south=true,west=false":  { "model": "macawsroofsbyg:block/top/cherry_top_roof"},
-        "part=basic,north=true,east=false,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof"},
-        "part=basic,north=false,east=false,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof"},
-		"part=basic,north=true,east=false,south=true,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof"},
-
-        "part=end_part,north=true,east=false,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end"},
-        "part=end_part,north=true,east=false,south=true,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end"},
-		"part=end_part,north=false,east=false,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end"},
 		
-		"part=end_part,north=false,east=true,south=false,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end", "y": 90},
-		"part=end_part,north=false,east=true,south=false,west=true": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end", "y": 90},
-		
-		"part=end_part,north=true,east=true,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_four_way_roof"},
-		"part=basic,north=true,east=true,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_four_way_roof"},
-        "part=end_part,north=false,east=false,south=true,west=false": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end"},
-		"part=end_part,north=false,east=false,south=false,west=true": { "model": "macawsroofsbyg:block/top/cherry_top_roof_end"},
-		
-        "part=basic,north=true,west=true,east=false,south=false":  { "model": "macawsroofsbyg:block/top/cherry_top_outer" },
-        "part=basic,north=true,east=true,west=false,south=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":90},
-        "part=basic,south=true,east=true,west=false,north=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":180},
-		"part=basic,south=true,west=true,east=false,north=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":270},
+		"part=switched_0": { "model": "macawsroofsbyg:block/top/cherry_top_roof"},
+		"part=switched_90": { "model": "macawsroofsbyg:block/top/cherry_top_roof", "y": 90},
 
-        "part=end_part,north=true,west=true,east=false,south=false":  { "model": "macawsroofsbyg:block/top/cherry_top_outer" },
-        "part=end_part,north=true,east=true,west=false,south=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":90},
-        "part=end_part,south=true,east=true,west=false,north=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":180},
-		"part=end_part,south=true,west=true,east=false,north=false": { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y":270},
+		"part=four_way":  { "model": "macawsroofsbyg:block/top/cherry_four_way_roof" },
 
-        "part=basic,north=true,east=true,south=false,west=true":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":270 },
-        "part=basic,north=false,east=true,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":90},
-        "part=basic,north=true,east=true,south=true,west=false": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof"},
-		"part=basic,north=true,east=false,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":180},
+		"part=top_end_0":  { "model": "macawsroofsbyg:block/top/cherry_top_roof_end" },
+		"part=top_end_90":  { "model": "macawsroofsbyg:block/top/cherry_top_roof_end", "y": 90 },
+		"part=top_end_180":  { "model": "macawsroofsbyg:block/top/cherry_top_roof_end", "y": 180 },
+		"part=top_end_270":  { "model": "macawsroofsbyg:block/top/cherry_top_roof_end", "y": 270 },
 
-        "part=end_part,north=true,east=true,south=false,west=true":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":270 },
-        "part=end_part,north=false,east=true,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":90},
-        "part=end_part,north=true,east=true,south=true,west=false": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof"},
-		"part=end_part,north=true,east=false,south=true,west=true": { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y":180}
+		"part=top_outer_0":  { "model": "macawsroofsbyg:block/top/cherry_top_outer" },
+		"part=top_outer_90":  { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y": 90 },
+		"part=top_outer_180":  { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y": 180 },
+		"part=top_outer_270":  { "model": "macawsroofsbyg:block/top/cherry_top_outer", "y": 270 },
 
-
-		
-		
+		"part=three_way_0":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof" },
+		"part=three_way_90":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y": 90 },
+		"part=three_way_180":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y": 180 },
+		"part=three_way_270":  { "model": "macawsroofsbyg:block/top/cherry_three_way_roof", "y": 270 }
     }
 }

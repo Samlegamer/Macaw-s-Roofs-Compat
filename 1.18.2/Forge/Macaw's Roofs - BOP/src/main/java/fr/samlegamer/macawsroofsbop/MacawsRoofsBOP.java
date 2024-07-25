@@ -2,8 +2,6 @@ package fr.samlegamer.macawsroofsbop;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.mcwroofs.kikoz.MacawsRoofs;
-import biomesoplenty.core.BiomesOPlenty;
 import fr.samlegamer.macawsroofsbop.block.MRBOPBlocksRegistry;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
@@ -13,7 +11,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import terrablender.core.TerraBlender;
 
 @Mod(value = MacawsRoofsBOP.MODID)
 @Mod.EventBusSubscriber(modid = MacawsRoofsBOP.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
@@ -215,6 +212,4 @@ public class MacawsRoofsBOP
 			return false;
 		}
 	}
-	
-	private void depedencies(BiomesOPlenty bop, MacawsRoofs mcwroofs, TerraBlender terra) {}
 }

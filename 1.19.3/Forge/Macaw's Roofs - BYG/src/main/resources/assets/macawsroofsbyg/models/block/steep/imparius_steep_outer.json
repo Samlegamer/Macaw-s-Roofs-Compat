@@ -1,7 +1,7 @@
 {
 	"parent": "mcwroofs:block/parent/xx_steep_outer",
 	"textures": {
-		"2": "byg:block/imparius/log",
-		"particle": "byg:block/imparius/log"
+		"particle": "byg:block/imparius/log",
+		"2": "byg:block/imparius/log"
 	}
 }

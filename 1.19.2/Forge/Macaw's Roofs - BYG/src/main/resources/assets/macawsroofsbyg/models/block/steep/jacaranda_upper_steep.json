@@ -1,7 +1,7 @@
 {
 	"parent": "mcwroofs:block/parent/xx_upper_steep",
 	"textures": {
-		"2": "byg:block/jacaranda/log",
-		"particle": "byg:block/jacaranda/log"
+		"particle": "byg:block/jacaranda/log",
+		"2": "byg:block/jacaranda/log"
 	}
 }

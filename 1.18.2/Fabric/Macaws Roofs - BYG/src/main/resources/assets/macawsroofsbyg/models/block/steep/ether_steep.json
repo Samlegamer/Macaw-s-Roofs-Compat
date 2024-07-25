@@ -1,7 +1,7 @@
 {
 	"parent": "mcwroofs:block/parent/xx_steep",
 	"textures": {
-		"2": "byg:block/ether_log",
-		"particle": "byg:block/ether_log"
+		"particle": "byg:block/ether_log",
+		"2": "byg:block/ether_log"
 	}
 }

@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "group" : "attic",
+  "pattern" : [ " W", "WG" ],
+  "key" : {
+    "W" : {
+      "item" : "biomesoplenty:fir_log"
+    },
+    "G" : {
+      "item" : "minecraft:glass"
+    }
+  },
+  "result" : {
+    "count" : 2,
+    "id" : "macawsroofsbop:fir_attic_roof"
+  }
+}

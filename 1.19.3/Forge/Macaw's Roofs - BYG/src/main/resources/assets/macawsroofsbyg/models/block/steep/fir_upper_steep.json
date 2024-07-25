@@ -1,7 +1,7 @@
 {
 	"parent": "mcwroofs:block/parent/xx_upper_steep",
 	"textures": {
-		"2": "byg:block/fir/log",
-		"particle": "byg:block/fir/log"
+		"particle": "byg:block/fir/log",
+		"2": "byg:block/fir/log"
 	}
 }

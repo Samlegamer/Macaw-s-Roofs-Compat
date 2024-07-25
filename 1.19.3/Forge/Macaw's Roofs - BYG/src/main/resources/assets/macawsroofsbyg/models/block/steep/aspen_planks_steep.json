@@ -1,7 +1,7 @@
 {
 	"parent": "mcwroofs:block/parent/xx_steep",
 	"textures": {
-		"2": "byg:block/aspen/planks",
-		"particle": "byg:block/aspen/planks"
+		"particle": "byg:block/aspen/planks",
+		"2": "byg:block/aspen/planks"
 	}
 }

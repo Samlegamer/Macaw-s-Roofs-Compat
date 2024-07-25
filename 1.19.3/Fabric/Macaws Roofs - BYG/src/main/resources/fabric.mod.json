@@ -1,33 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "z_mcwroofsbyg",
+  "version": "1.19.2-1.3",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Macaw's Roofs - BYG",
+  "description": "Compatibility between Macaw's Roofs and Oh The Biomes You'll Go for Minecraft 1.19.2 !",
   "authors": [
-    "Me!"
+    "Samlegamer"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-oh-the-biomes-youll-go",
+    "sources": "https://github.com/Samlegamer/Macaw-s-Roofs-Compat/tree/1.19.2"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/z_mcwroofsbyg/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "fr.samlegamer.macawsroofsbyg.MacawsRoofsBYG"
+    ],
+    "client": [
+      "fr.samlegamer.macawsroofsbyg.MRBYGClient"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
-
   "depends": {
-    "fabricloader": ">=0.14.11",
+    "fabricloader": ">=0.14.19",
     "fabric-api": "*",
     "minecraft": "~1.19.3",
     "java": ">=17"

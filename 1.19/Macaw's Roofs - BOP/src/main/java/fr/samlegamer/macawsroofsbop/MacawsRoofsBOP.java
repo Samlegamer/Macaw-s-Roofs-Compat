@@ -23,11 +23,11 @@ public class MacawsRoofsBOP
 	public MacawsRoofsBOP()
 	{
 		FMLJavaModLoadingContext.get().getModEventBus().addListener(this::ClientSetup);
-		log.info("Macaw's Roofs - Biome O' Plenty : Loading...");
+		log.info("Macaw's Roofs - Biomes O' Plenty : Loading...");
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MRBOPBlocksRegistry.ITEMS_REGISTRY.register(bus);
 		MRBOPBlocksRegistry.BLOCKS_REGISTRY.register(bus);
-		log.info("Macaw's Roofs - Biome O' Plenty : Is Charged");
+		log.info("Macaw's Roofs - Biomes O' Plenty : Is Charged");
 	}
 	
 	private void ClientSetup(FMLClientSetupEvent event)
