@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "macawsroofsbyg:white_mangrove_planks_roof",
+	  "macawsroofsbyg:white_mangrove_planks_attic_roof",
+	  "macawsroofsbyg:white_mangrove_planks_top_roof",
+	  "macawsroofsbyg:white_mangrove_planks_lower_roof",
+	  "macawsroofsbyg:white_mangrove_planks_steep_roof",
+	  "macawsroofsbyg:white_mangrove_planks_upper_lower_roof",
+	  "macawsroofsbyg:white_mangrove_planks_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomeswevegone:white_mangrove_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}
