@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "lower",
+    
+    "pattern":
+    [
+		" WW",
+        "WWS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:zelkova_planks"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:zelkova_planks_lower_roof",
+        "count": 4
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "steep",
+    
+    "pattern":
+    [
+        " W",
+		"WW",
+        "WS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:witch_hazel_log"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:witch_hazel_steep_roof",
+        "count": 4
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "top",
+    
+    "pattern":
+    [
+        "WSW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:florus_stem"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:florus_top_roof",
+        "count": 2
+    }
+}

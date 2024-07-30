@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "z_mcwroofsbyg:ebony_planks_top_roof"
+				}
+			]
+		}
+	]
+}

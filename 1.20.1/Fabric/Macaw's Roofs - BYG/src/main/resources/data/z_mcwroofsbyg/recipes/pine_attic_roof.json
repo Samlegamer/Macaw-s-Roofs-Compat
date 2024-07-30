@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "attic",
+    
+    "pattern":
+    [
+        " W",
+        "WG"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:pine_log"
+        },
+		"G":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:pine_attic_roof",
+        "count": 2
+    }
+}

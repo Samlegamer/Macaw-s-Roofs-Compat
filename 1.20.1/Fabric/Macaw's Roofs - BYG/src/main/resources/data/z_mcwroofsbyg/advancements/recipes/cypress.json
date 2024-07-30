@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "z_mcwroofsbyg:cypress_roof",
+	  "z_mcwroofsbyg:cypress_attic_roof",
+	  "z_mcwroofsbyg:cypress_top_roof",
+	  "z_mcwroofsbyg:cypress_lower_roof",
+	  "z_mcwroofsbyg:cypress_steep_roof",
+	  "z_mcwroofsbyg:cypress_upper_lower_roof",
+	  "z_mcwroofsbyg:cypress_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomeswevegone:cypress_log"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

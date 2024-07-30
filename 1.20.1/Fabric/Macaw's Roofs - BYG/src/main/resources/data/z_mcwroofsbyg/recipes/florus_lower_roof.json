@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "lower",
+    
+    "pattern":
+    [
+		" WW",
+        "WWS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:florus_stem"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:florus_lower_roof",
+        "count": 4
+    }
+}

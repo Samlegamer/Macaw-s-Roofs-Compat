@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "z_mcwroofsbyg:ironwood_roof",
+	  "z_mcwroofsbyg:ironwood_attic_roof",
+	  "z_mcwroofsbyg:ironwood_top_roof",
+	  "z_mcwroofsbyg:ironwood_lower_roof",
+	  "z_mcwroofsbyg:ironwood_steep_roof",
+	  "z_mcwroofsbyg:ironwood_upper_lower_roof",
+	  "z_mcwroofsbyg:ironwood_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomeswevegone:ironwood_log"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

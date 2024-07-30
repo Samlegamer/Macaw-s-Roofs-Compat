@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "top",
+    
+    "pattern":
+    [
+        "WSW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:witch_hazel_log"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:witch_hazel_top_roof",
+        "count": 2
+    }
+}

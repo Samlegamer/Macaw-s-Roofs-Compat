@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "steep",
+    
+    "pattern":
+    [
+        " W",
+		"WW",
+        "WS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "biomeswevegone:jacaranda_planks"
+        },
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "z_mcwroofsbyg:jacaranda_planks_steep_roof",
+        "count": 4
+    }
+}
